@@ -27,15 +27,15 @@ To run this project, you will need the following:
 ## Project Structure
 The project is structured as follows:
 ```
-├── gui/                                        # Directory for the Streamlit GUI application
+├── gui/                                  # Directory for the Streamlit GUI application
 │   └── Gui.py                            # Main Streamlit application file
-│   └── Constants.py                   # File containing the list of supported currency codes
-├── src/                                        # Directory for source code
-│   └── Currency_Convertor.py # Logic for currency conversion and API interactions
-├── .gitignore                              # File to specify intentionally untracked files for Git
-├── LICENSE                            # Project license information
-├── README.md                     # Project  documentation and overview
-├── requirements.txt                  # List of Python dependencies required to run the project
+│   └── Constants.py                      # File containing the list of supported currency codes
+├── src/                                  # Directory for source code
+│   └── Currency_Convertor.py             # Logic for currency conversion and API interactions
+├── .gitignore                            # File to specify intentionally untracked files for Git
+├── LICENSE                               # Project license information
+├── README.md                             # Project  documentation and overview
+├── requirements.txt                      # List of Python dependencies required to run the project
 ```
 
 ## Future Enhancements
